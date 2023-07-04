@@ -1,0 +1,1 @@
+import{u as e,a,o as s,b as r,c as n,t as u,d as c}from"./index-564902d8.js";const l={__name:"Empty",setup(m){const t=e(),o=a();return s(()=>{o.setRoom(t.params.roomid)}),(p,_)=>(r(),n("h3",null,"/"+u(c(o).room),1))}};export{l as default};
